@@ -12,5 +12,5 @@ A Simple Python3 Script to Write Custom AppImage Update Information to any AppIm
 or 
 
 ```
- $ bash <(curl -s https://git.io/JqTBd)
+ $ bash <(curl -Ls https://git.io/JqTBd)
 ```
